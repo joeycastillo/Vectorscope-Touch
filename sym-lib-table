@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CAPT-B1-02 Cap Touch Matrix Shield-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/CAPT-B1-02 Cap Touch Matrix Shield-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "OSO_SWD")(type "KiCad")(uri "${KIPRJMOD}/OSO_SWD.kicad_sym")(options "")(descr ""))
+)
